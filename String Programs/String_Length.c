@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 { 
-    int x;
     int i;
     int count=0;
     char str[20];

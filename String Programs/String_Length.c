@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main()
-{   int i;
+{ 
+    int x;
+    int i;
     int count=0;
     char str[20];
     printf("Enter the String\n");

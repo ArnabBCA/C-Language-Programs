@@ -30,18 +30,17 @@ int main()
             continue;
         }          
     }
-    if(top==0)
+    if(top==-1)
     {
         printf("Your expression is ok");
     }
     else
     {
-        printf("Wrong Expression")
+        printf("Wrong Expression");
     }
-
-    for(j=0;j<top-1;j++)
+    /*for(j=0;j<top-1;j++)
     {
         printf("%c",arr[j]);
-    }
+    }*/
     return 0;
 }

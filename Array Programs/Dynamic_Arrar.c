@@ -15,7 +15,7 @@ int main()
         ptr[i] = num;
     }
     printf("The elements of the array are: ");
-    for (i = 0; i < size; i+) 
+    for (i = 0; i < size; i++) 
     {
         printf("%d ", ptr[i]);
     }

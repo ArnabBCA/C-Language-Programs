@@ -2,6 +2,7 @@
 #include<stdlib.h>
 struct Array
 {
+    int k;
     int *A;
     int size;
     int length; 
